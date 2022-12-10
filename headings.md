@@ -11,10 +11,19 @@ This is the Markdown code:
 
 `### Heading 3`
 
+`#### Heading 4`
+
+`##### Heading 5`
+
+`###### Heading 6`
+
 This how the above code would appear:
 --
 # Heading 1
 ## Heading 2
 ### Heading 3
+#### Heading 4
+##### Heading 5
+###### Heading 6
 
 [Return to Home](./README.md)
