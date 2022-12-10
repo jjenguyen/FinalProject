@@ -16,3 +16,5 @@ This how the above code would appear:
 # Heading 1
 ## Heading 2
 ### Heading 3
+
+[Return to Home](./README.md)
