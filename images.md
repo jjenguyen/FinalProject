@@ -1,8 +1,8 @@
 # Images in Markdown
 To create a link in markdown, use the following syntax:
 
-`![Alt Text](http://image.`
+`![Markdown logo](https://markdown-here.com/img/icon128.png)`
 
 ## The above code will appear as:
 
-![MarineGEO circle logo](/assets/img/MarineGEO_logo.png "MarineGEO logo")
+![Markdown logo](https://markdown-here.com/img/icon128.png)
