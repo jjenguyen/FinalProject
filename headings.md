@@ -1,5 +1,5 @@
 # Headings in Markdown
-Markdown uses hashtags (#) to create headings, with one hashtag representing a heading level.
+In markdown, headings are created by using the # symbol followed by the heading text. The number of # symbols indicates the heading level, with one # symbol for the highest level heading and six # symbols for the lowest level heading.
 
 The following are examples of Markdown headings:
 
