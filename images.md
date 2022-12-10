@@ -6,3 +6,5 @@ To create a link in markdown, use the following syntax:
 ## The above code will appear as:
 
 ![Markdown logo](https://markdown-here.com/img/icon128.png)
+
+[Return to Home](./README.md)
